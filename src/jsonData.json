@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "ProductName":"Dog Food",
+        "ProductDescription":"Royal Canin Adult Dry Dog Food, 15lb",
+        "Price":35,
+        "imageUrl":"../assets/dogfood.png"
+    },
+    {
+        "id":2,
+        "ProductName":"Cat Food",
+        "ProductDescription":"Hill's Science Diet Kitten Wet Cat Food",
+        "Price":20,
+        "imageUrl":"../assets/catfood.png"
+    },
+    {
+        "id":3,
+        "ProductName":"Pet Bed",
+        "ProductDescription":"An orthopedic pet bed with memory foam cushioning",
+        "Price":50,
+        "imageUrl":"../assets/petbed.png"
+    },
+    {
+        "id":4,
+        "ProductName":"Pet Toy",
+        "ProductDescription":"Interactive Nylon Puzzle Toy for Dogs, Stimulating",
+        "Price":15,
+        "imageUrl":"../assets/pettoys.png"
+    },
+    {
+        "id":5,
+        "ProductName":"Cat Litter",
+        "ProductDescription":"Arm & Hammer Clump & Seal Platinum, 28lb",
+        "Price":20,
+        "imageUrl":"../assets/catlitter.png"
+    },
+    {
+        "id":6,
+        "ProductName":"Dog Collar",
+        "ProductDescription":"Reflective Adjustable Nylon Dog Collar with Buckle",
+        "Price":10,
+        "imageUrl":"../assets/dogcollors.png"
+    },
+    {
+        "id":7,
+        "ProductName":"Cat Scratching Post",
+        "ProductDescription":"Sisal Rope Cat Scratching Post, 32 Inches",
+        "Price":25,
+        "imageUrl":"../assets/catstraching.png"
+    },
+    {
+        "id":8,
+        "ProductName":"Dog Leash",
+        "ProductDescription":"Heavy Duty Retractable Dog Leash, 16 Feet",
+        "Price":20,
+        "imageUrl":"../assets/dogleash.png"
+    },
+    {
+        "id":9,
+        "ProductName":"Cat Carrier",
+        "ProductDescription":"Soft-Sided Portable Cat Carrier with Mesh Windows",
+        "Price":30,
+        "imageUrl":"../assets/catcarrier.png"
+    },
+    {
+        "id":10,
+        "ProductName":"Dog Treats",
+        "ProductDescription":"Grain-Free Peanut Butter Dog Treats, 20oz",
+        "Price":15,
+        "imageUrl":"../assets/dogtreats.png"
+    }
+    
+]
